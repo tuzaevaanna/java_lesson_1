@@ -46,7 +46,7 @@ public class Main {
     }
 
     public static void greetings(String name) {
-        System.out.println("Привет, " + name + "!");
+        System.out.println("Привет, " + name + "!!!");
     }
 }
 
